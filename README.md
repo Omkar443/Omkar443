@@ -1,96 +1,165 @@
-<!-- =========================================================
-     OMKAR443 — GITHUB PROFILE README
-     Security Researcher • Firmware RE • Android • Web • IoT
-========================================================== -->
+<!--
+=============================================================================
+ OMKAR SAHNI — GITHUB PROFILE
+ Security Researcher • Firmware RE • Android • Web • IoT
+=============================================================================
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:111827,100:7F1D1D&height=220&section=header&text=OMKAR%20SAHNI&fontSize=48&fontColor=F8FAFC&fontAlignY=36&desc=SECURITY%20RESEARCHER%20%2F%2F%20VULNERABILITY%20RESEARCHER&descAlignY=56&descSize=16&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=E11D48"/>
 
-### `FIRMWARE RE` • `ANDROID SECURITY` • `WEB SECURITY` • `IoT`
+<br/>
 
-<br>
+<pre>
+ // EXPLORE   // REVERSE   // ANALYZE   // EXPLOIT   // DISCLOSE
+</pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=F43F5E&center=true&vCenter=true&width=700&lines=Firmware+Reverse+Engineering;Android+Security+Research;Vulnerability+Research;Building+LeakHunterX;Breaking+assumptions.+Building+security." alt="Typing SVG" />
+# `OMKAR SAHNI`
 
-<br>
+### <code>SECURITY RESEARCHER</code>
 
-> **Reverse engineering systems. Breaking assumptions. Building security tooling.**
+#### `FIRMWARE RE`  |  `ANDROID SECURITY`  |  `WEB SECURITY`  |  `IoT`
 
-<br>
+<br/>
+
+<table>
+<tr>
+<td align="center">
+<b>🛡️ Vulnerability<br/>Research</b>
+</td>
+<td align="center">
+<b>⚙️ Security<br/>Automation</b>
+</td>
+<td align="center">
+<b>🎯 Bug Bounty<br/>Research</b>
+</td>
+<td align="center">
+<b>🛠️ Security Tool<br/>Builder</b>
+</td>
+</tr>
+</table>
+
+<br/>
+
+> ### `"Finding flaws in the systems that power our world."`
+
+```bash
+omkar@research:~$ ./hunt █
+```
+
+<p align="center">
 
 <a href="https://leakhunterx.com">
-  <img src="https://img.shields.io/badge/LeakHunterX-Visit-111827?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=7F1D1D" />
+<img src="https://img.shields.io/badge/🔥_LeakHunterX-E11D48?style=for-the-badge&labelColor=0D1117"/>
 </a>
+
 <a href="https://hackerone.com/omkar_sahni">
-  <img src="https://img.shields.io/badge/HackerOne-Profile-111827?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=7F1D1D" />
+<img src="https://img.shields.io/badge/HackerOne-181717?style=for-the-badge&logo=hackerone&logoColor=white"/>
 </a>
+
 <a href="https://www.linkedin.com/in/omkar-sahni-89b952324">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7F1D1D" />
+<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Omkar443">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48"/>
 
 </div>
 
----
+<br/>
 
-## `$ whoami`
+# `$ whoami` <sub><code>█</code></sub>
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
+Independent security researcher focused on **firmware reverse engineering, Android security, vulnerability research, IoT security, and offensive security engineering**.
+
+My work spans the full vulnerability research lifecycle — from **static and dynamic analysis** through exploit development, responsible disclosure, and remediation verification.
+
+Currently building **[LeakHunterX](https://leakhunterx.com)**, a distributed secret-scanning platform designed to analyze source code while keeping customer source files local.
+
+</td>
+
+<td width="40%" valign="top">
 
 ```bash
 omkar@research:~$ whoami
 
-Security Researcher
-Vulnerability Researcher
-Firmware Reverse Engineer
-Security Tool Builder
-Founder @ LeakHunterX
+[+] Security Researcher
+[+] Vulnerability Researcher
+[+] Firmware Reverse Engineer
+[+] Security Tool Builder
+[+] Founder @ LeakHunterX
 ```
 
-I am an independent security researcher focused on **firmware reverse engineering, Android security, vulnerability research, IoT security, and offensive security engineering**.
+</td>
 
-My work spans the full vulnerability research lifecycle:
+</tr>
+</table>
 
-```text
-RECON → STATIC ANALYSIS → REVERSE ENGINEERING → EMULATION
-           ↓
-DISCLOSURE ← VALIDATION ← EXPLOIT RESEARCH ← DYNAMIC ANALYSIS
-```
-
-I also build security infrastructure and automation, including **LeakHunterX**, a distributed secret-scanning platform designed to analyze source code while keeping customer source files local.
-
-<br>
-
-```text
-[+] Firmware Reverse Engineering     ARM / MIPS
-[+] Android Application Security     IPC / Intents / Accessibility
-[+] Web & API Security               Offensive Research
-[+] IoT / Embedded Security          Hardware + Firmware
-[+] Security Automation              Python / Backend Systems
-[+] Vulnerability Research           PoC → Disclosure → Verification
-```
-
----
-
-# 🛡️ Selected Security Research
+<br/>
 
 <table>
 <tr>
+<td align="center"><b>🧬 Firmware RE</b><br/><sub>ARM / MIPS</sub></td>
+<td align="center"><b>📱 Android Security</b><br/><sub>IPC / Intents</sub></td>
+<td align="center"><b>🌐 Web & API</b><br/><sub>Offensive Research</sub></td>
+<td align="center"><b>📡 IoT / Embedded</b><br/><sub>Hardware Security</sub></td>
+<td align="center"><b>🧠 Automation</b><br/><sub>Python / Backend</sub></td>
+<td align="center"><b>🎯 Bug Bounty</b><br/><sub>Vulnerability Research</sub></td>
+</tr>
+</table>
+
+---
+
+# 🛡️ Selected Security Research <sub><code>█</code></sub>
+
+<table>
+<tr>
+
 <td width="33%" valign="top">
 
-### 📡 TP-Link Archer C7 v5
+## 📡 TP-Link Archer C7 v5
 
-**2 CVE submissions pending with MITRE**
+### `2 CVE submissions pending with MITRE`
 
-`Firmware RE` `ARM` `QEMU` `Binwalk`
+<p>
+<img src="https://img.shields.io/badge/Firmware_RE-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/ARM-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/QEMU-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Binwalk-111827?style=flat-square"/>
+</p>
 
-Full firmware research chain covering extraction, reverse engineering, emulation and dynamic analysis.
+**CWE-78 — Command Injection**
 
-**Research findings**
+Attacker-controlled input reaches a LuCI web-interface handler, resulting in **unauthenticated root-level command execution**.
 
-**CWE-78**  
-Command injection in a LuCI web-interface handler with root-level code-execution impact.
+**CWE-321 — Hardcoded RSA Key**
 
-**CWE-321**  
-Hardcoded RSA private-key material recovered from distributed firmware.
+RSA private-key material was embedded within distributed firmware configuration.
+
+### Research Chain
+
+```text
+Extraction
+   ↓
+Reverse Engineering
+   ↓
+QEMU Emulation
+   ↓
+Dynamic Analysis
+   ↓
+Impact Validation
+```
 
 **Firmware**
 
@@ -98,31 +167,31 @@ Hardcoded RSA private-key material recovered from distributed firmware.
 
 **Disclosure**
 
-Vendor confirmed the affected product as End-of-Life.
+Vendor confirmed product **End-of-Life**.
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🏆 TikTok
+## 🏆 TikTok
 
-**$4,500 Responsible Disclosure Bounty**
+### `$4,500 Responsible Disclosure Bounty`
 
-Identified and demonstrated a high-impact security vulnerability.
+<p>
+<img src="https://img.shields.io/badge/Vulnerability_Research-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Web_Security-111827?style=flat-square"/>
+</p>
 
-Research involved:
+Identified and demonstrated a **high-impact security vulnerability**.
 
-- Vulnerability discovery
-- Impact validation
-- Sanitized proof of concept
-- Technical reporting
-- Coordinated triage
-- Remediation verification
+### Research Lifecycle
 
 ```text
 DISCOVER
    ↓
 VALIDATE
+   ↓
+PoC
    ↓
 REPORT
    ↓
@@ -131,215 +200,270 @@ TRIAGE
 REMEDIATE
 ```
 
+- Vulnerability discovery
+- Full impact validation
+- Sanitized proof of concept
+- Technical report
+- Coordinated triage
+- Remediation verification
+
 </td>
 
 <td width="33%" valign="top">
 
-### 📱 Coinbase Wallet
+## 📱 Coinbase Wallet
 
-**Android Security Research**
+### `Android Security Research`
 
-Research into sensitive data exposure across Android accessibility boundaries.
+<p>
+<img src="https://img.shields.io/badge/Android-111827?style=flat-square&logo=android"/>
+<img src="https://img.shields.io/badge/AccessibilityService-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/BIP--39-111827?style=flat-square"/>
+</p>
 
-Focus areas:
+Research into sensitive-data exposure across Android accessibility boundaries.
+
+### Focus
 
 - BIP-39 seed phrase exposure
 - `AccessibilityService`
 - Controlled PoC APK
-- Multi-device validation
 - Exfiltration testing
+- Multi-device validation
 - Mitigation analysis
 
 Evaluated behavior around:
 
-`importantForAccessibility="no-hide-descendants"`
+```java
+importantForAccessibility=
+    "no-hide-descendants"
+```
+
+and documented continued attack-surface behavior during follow-up testing.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🔬 Firmware Research Methodology
-
-```mermaid
-flowchart LR
-    A[Firmware Image] --> B[Extraction]
-    B --> C[Filesystem Analysis]
-    C --> D[Reverse Engineering]
-    D --> E[QEMU Emulation]
-    E --> F[Dynamic Analysis]
-    F --> G[Impact Validation]
-    G --> H[Responsible Disclosure]
-```
-
-```text
-Tools commonly involved:
-
-Binwalk
-   ↓
-Filesystem / Lua / LuCI
-   ↓
-ARM / MIPS Analysis
-   ↓
-QEMU
-   ↓
-Dynamic Testing
-   ↓
-Exploit Validation
-```
-
----
-
-# ⚡ Currently Building
+# 🔬 Firmware Research Methodology <sub><code>█</code></sub>
 
 <div align="center">
 
-## `LeakHunterX`
-
-### Distributed Secret-Scanning Infrastructure
-
-**Founder @ TantraLogic AI**
-
-<a href="https://leakhunterx.com">
-<img src="https://img.shields.io/badge/LEAKHUNTERX-VISIT_PLATFORM-E11D48?style=for-the-badge&labelColor=111827" />
-</a>
+```text
+┌───────────────┐
+│ Firmware Image│
+└───────┬───────┘
+        │
+        ▼
+┌───────────────┐
+│   Extraction  │
+│    Binwalk    │
+└───────┬───────┘
+        │
+        ▼
+┌────────────────────┐
+│ Reverse Engineering│
+│   Lua / LuCI / ASM │
+└────────┬───────────┘
+         │
+         ▼
+┌──────────────────┐
+│  QEMU Emulation  │
+│    ARM / MIPS    │
+└────────┬─────────┘
+         │
+         ▼
+┌──────────────────┐
+│ Dynamic Analysis │
+└────────┬─────────┘
+         │
+         ▼
+┌──────────────────┐
+│ Exploit Validation│
+└────────┬─────────┘
+         │
+         ▼
+┌───────────────────────┐
+│ Responsible Disclosure│
+└───────────────────────┘
+```
 
 </div>
 
-LeakHunterX is a distributed secret-scanning platform designed to detect exposed credentials while keeping the user's source code on their own machine.
-
-### Architecture
-
-```mermaid
-flowchart LR
-    A[Local Scanner Agent] -->|Token Authenticated WebSocket| B[FastAPI Backend]
-    B --> C[(Redis)]
-    B --> D[(PostgreSQL)]
-    B --> E[Real-Time Dashboard]
-    E --> F[JSON / CSV / PDF Reports]
-
-    A -. Source code remains local .-> A
-```
-
-### Highlights
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  🔐 Source code remains on the user's machine              │
-│                                                             │
-│  🔎 50+ secret detection patterns                          │
-│                                                             │
-│  ⚡ Real-time distributed scanning                         │
-│                                                             │
-│  🧠 Credential & secret classification                     │
-│                                                             │
-│  📊 JSON / CSV / PDF reporting                            │
-│                                                             │
-│  🐳 Containerized backend architecture                    │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-Detection includes patterns associated with:
-
-`AWS` • `GitHub` • `Stripe` • `JWT` • `Database URIs` • `API Keys` • `Credentials`
-
 ---
 
-# 🚀 Featured Security Projects
+# ⚡ Currently Building — <span style="color:#E11D48">LeakHunterX</span>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
+# 🔥 LeakHunterX
+
+### Distributed Secret-Scanning Platform
+
+**Founder @ TantraLogic AI**
+
+LeakHunterX is a distributed secret-scanning SaaS designed to detect exposed credentials while keeping the user's source code **on their own machine**.
+
+### Core Capabilities
+
+- 🔐 Source code remains local
+- 🔎 50+ secret detection patterns
+- ⚡ Real-time distributed scanning
+- 📊 JSON / CSV / PDF reporting
+- 🔑 AWS, GitHub, Stripe, JWT & DB secret detection
+- 🐳 Containerized infrastructure
+- 🔌 Local agent architecture
+
+<p>
+
+<img src="https://img.shields.io/badge/50+_Patterns-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/<2%25_False_Positive-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Real--Time-111827?style=flat-square"/>
+
+</p>
+
+<a href="https://leakhunterx.com">
+<img src="https://img.shields.io/badge/Visit_leakhunterx.com-E11D48?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+## Architecture
+
+```text
+┌─────────────────────────┐
+│   LOCAL SCANNER AGENT   │
+│                         │
+│  Source code stays here │
+└────────────┬────────────┘
+             │
+             │ Token Authenticated
+             │ WebSocket
+             ▼
+┌─────────────────────────┐
+│      FastAPI Backend    │
+└──────────┬───────┬──────┘
+           │       │
+           ▼       ▼
+     ┌─────────┐ ┌────────────┐
+     │  Redis  │ │ PostgreSQL │
+     └────┬────┘ └─────┬──────┘
+          │            │
+          └──────┬─────┘
+                 ▼
+      ┌─────────────────────┐
+      │ Real-Time Dashboard │
+      │ Reports + Analytics │
+      └─────────────────────┘
+```
+
+### Backend
+
+`FastAPI` • `Redis` • `PostgreSQL`  
+`WebSockets` • `SQLAlchemy` • `Docker`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects <sub><code>█</code></sub>
+
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
 ## 🧠 NYX
 
-**AI Security Research Platform**
+Open-source AI security research platform for:
 
-Open-source security research platform combining:
-
-- AI security agents
 - Attack-surface intelligence
 - Dynamic analysis
 - Vulnerability discovery
 - Validation workflows
-- Security knowledge automation
 
-**Primary language:** `Python`
+`Python` `AI` `Security`
+
+<br/>
 
 <a href="https://github.com/Omkar443/nyx">
-<img src="https://img.shields.io/badge/VIEW-NYX-E11D48?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Repository-E11D48?style=flat-square&logo=github"/>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ## 🛰️ ProbeRaptor
 
-**Reconnaissance Framework**
+Modular reconnaissance framework for:
 
-Original Python reconnaissance suite designed for bug-bounty attack-surface discovery.
-
-Capabilities include:
-
-- Subdomain brute forcing
-- Certificate Transparency analysis
-- Parallel port scanning
+- Subdomain discovery
+- CT log analysis
+- Port scanning
 - Target scoring
-- JSON reporting
 
-Built without chaining third-party reconnaissance tools.
+Built without third-party recon chaining.
+
+`Python` `Recon`
+
+<br/>
 
 <a href="https://github.com/Omkar443/ProbeRaptor">
-<img src="https://img.shields.io/badge/VIEW-PROBERAPTOR-E11D48?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Repository-E11D48?style=flat-square&logo=github"/>
 </a>
 
 </td>
-</tr>
 
-<tr>
-
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ## 🤖 LeakHunterX Agent
 
-**Autonomous Security Research Agent**
-
-Security research agent focused on:
+Autonomous security research agent for:
 
 - Reconnaissance
 - Attack-surface analysis
 - Vulnerability discovery
 - Research automation
 
-**Primary language:** `Python`
+`Python` `Agents`
+
+<br/>
 
 <a href="https://github.com/Omkar443/leakhunterx-agent">
-<img src="https://img.shields.io/badge/VIEW-LHX_AGENT-E11D48?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Repository-E11D48?style=flat-square&logo=github"/>
 </a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ## ⚔️ Kioptrix Level 1
 
-**Exploitation Research / Write-up**
-
-Technical walkthrough covering:
+Technical exploitation walkthrough covering:
 
 - Reconnaissance
-- Service enumeration
+- Enumeration
 - Exploitation
-- Linux privilege escalation
-- Root access
+- Privilege escalation
+
+`Linux` `CTF`
+
+<br/>
 
 <a href="https://github.com/Omkar443/Kioptrix-Level1-Writeup">
-<img src="https://img.shields.io/badge/VIEW-WRITEUP-E11D48?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View_Repository-E11D48?style=flat-square&logo=github"/>
 </a>
 
 </td>
@@ -349,104 +473,154 @@ Technical walkthrough covering:
 
 ---
 
-# ⚔️ Research Arsenal
+# ⚔️ Research Arsenal <sub><code>█</code></sub>
 
-### Security Research
+<table>
 
-<p>
-<img src="https://img.shields.io/badge/Firmware_RE-111827?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Security-111827?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/Web_Security-111827?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/API_Security-111827?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/IoT_Security-111827?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/802.11_RF-111827?style=flat-square&logoColor=white" />
-</p>
+<tr>
 
-### Security Tooling
+<td width="25%" valign="top">
 
-<p>
-<img src="https://img.shields.io/badge/Burp_Suite-111827?style=flat-square&logo=burpsuite&logoColor=FF6633" />
-<img src="https://img.shields.io/badge/MobSF-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/JADX-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Binwalk-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/QEMU-111827?style=flat-square&logo=qemu&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-111827?style=flat-square&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Nessus-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Kali_Linux-111827?style=flat-square&logo=kalilinux&logoColor=white" />
-</p>
+### 🔬 Security Research
 
-### Languages
+`Firmware RE`
 
-<p>
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MIPS_Assembly-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/x86_Assembly-111827?style=flat-square" />
-</p>
+`Android`
 
-### Backend & Infrastructure
+`Web Security`
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/SQLAlchemy-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white" />
-</p>
+`API Security`
+
+`IoT / Embedded`
+
+`802.11 / RF`
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🛠 Security Tools
+
+`Burp Suite`
+
+`MobSF`
+
+`JADX`
+
+`Binwalk`
+
+`QEMU`
+
+`Metasploit`
+
+`Nmap`
+
+`Nessus`
+
+`Kali Linux`
+
+`NetHunter`
+
+</td>
+
+<td width="25%" valign="top">
+
+### 💻 Languages
+
+`Python`
+
+`C`
+
+`Java`
+
+`JavaScript`
+
+`SQL`
+
+`MIPS Assembly`
+
+`x86 Assembly`
+
+</td>
+
+<td width="25%" valign="top">
+
+### ⚙️ Backend & Infra
+
+`FastAPI`
+
+`PostgreSQL`
+
+`Redis`
+
+`WebSockets`
+
+`SQLAlchemy`
+
+`Docker`
+
+`Linux`
+
+`Git`
+
+</td>
+
+</tr>
+
+</table>
 
 ---
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
 
 # ⚡ Hardware → Security
 
-My route into cybersecurity started with **Electrical & Electronics Engineering**.
-
-That background gave me a foundation in:
+My **Electrical & Electronics Engineering** background gives me a hardware-level foundation for embedded and IoT research.
 
 ```text
 Circuit Design
-     │
-     ▼
+      │
+      ▼
 Digital Logic
-     │
-     ▼
-Microprocessor Architecture
-     │
-     ▼
-Assembly Language
-     │
-     ▼
+      │
+      ▼
+Microprocessors
+      │
+      ▼
+Assembly
+      │
+      ▼
 Embedded Systems
-     │
-     ▼
-Firmware Reverse Engineering
-     │
-     ▼
+      │
+      ▼
+Firmware RE
+      │
+      ▼
 IoT Security
 ```
 
-This hardware perspective directly influences the way I approach embedded and firmware security research.
+### Hardware Foundation
 
----
+`Circuit Design`
 
-# 🧭 Journey
+`Microprocessor Architecture`
 
-```mermaid
-flowchart LR
+`Logic Gates`
 
-    A[Electrical & Electronics Engineering] --> B[Industrial Electrical Engineering]
-    B --> C[Computer Science + Cybersecurity]
-    C --> D[Vulnerability Research]
-    D --> E[Firmware + Android Security]
-    E --> F[LeakHunterX]
+`Assembly Language`
 
-```
+`ESP8266`
+
+`Industrial Electrical Systems`
+
+</td>
+
+<td width="33%" valign="top">
+
+# 🧭 My Journey
 
 ### `2018 → 2023`
 
@@ -454,120 +628,131 @@ flowchart LR
 
 Korea Nepal Polytechnic Institute
 
-`Microprocessors` • `Assembly` • `Circuit Design` • `Digital Logic`
+↓
 
 ### `2023 → 2024`
 
 **Sub Electrical Engineer**
 
-Varun Beverages — PepsiCo Franchise
+Varun Beverages  
+PepsiCo Franchise
 
-Worked with industrial electrical systems, maintenance and hardware fault diagnosis.
+↓
 
 ### `2024 → Present`
 
-**B.Tech — Computer Science Engineering (Cyber Security)**
+**B.Tech CSE — Cyber Security**
 
 Parul University
+
+↓
 
 ### `2025 → Present`
 
 **Independent Security Research**
 
-`Firmware` • `Android` • `Web` • `IoT`
+Firmware • Android • Web • IoT
+
+↓
 
 ### `2025 → Present`
 
-**Founder — LeakHunterX / TantraLogic AI**
+**Founder — LeakHunterX**
 
-Building security infrastructure and automated vulnerability-research tooling.
+TantraLogic AI
 
----
+</td>
+
+<td width="33%" valign="top">
 
 # 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Omkar443&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F43F5E&icon_color=F43F5E&text_color=C9D1D9&ring_color=F43F5E" />
+<img src="https://github-readme-stats.vercel.app/api?username=Omkar443&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E11D48&icon_color=E11D48&text_color=C9D1D9&ring_color=E11D48" width="100%"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar443&layout=compact&hide_border=true&bg_color=0D1117&title_color=F43F5E&text_color=C9D1D9" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkar443&layout=compact&hide_border=true&bg_color=0D1117&title_color=E11D48&text_color=C9D1D9" width="100%"/>
 
 </div>
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-# 🔭 Current Focus
+# 🎯 Current Focus
 
-```text
+```bash
+omkar@research:~$ cat focus.conf
+
 [ RESEARCH ]
-
-Firmware Security
-Android Application Security
-IoT / Embedded Security
-Vulnerability Research
-
+> Firmware Security
+> Android Application Security
+> IoT / Embedded Security
+> Vulnerability Research
 
 [ BUILDING ]
+> LeakHunterX
+> Security Automation
+> Open-Source Research Tooling
 
-LeakHunterX
-Security Research Automation
-Open-Source Security Tooling
-
-
-[ INTERESTED IN ]
-
-Firmware / Embedded Security
-Android Security
-Security Engineering
-Vulnerability Research
-Research Collaboration
+[ INTERESTED_IN ]
+> Firmware / Embedded Security
+> Android Security
+> Security Engineering
+> Vulnerability Research
+> Research Collaboration
 ```
 
 ---
 
-# 📡 Connect
+# 📡 Connect <sub><code>█</code></sub>
 
 <div align="center">
 
+### Let's build a more secure digital world.
+
+<br/>
+
 <a href="https://leakhunterx.com">
-<img src="https://img.shields.io/badge/LeakHunterX-E11D48?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
+<img src="https://img.shields.io/badge/🔥_LeakHunterX-E11D48?style=for-the-badge"/>
 </a>
 
 <a href="https://hackerone.com/omkar_sahni">
-<img src="https://img.shields.io/badge/HackerOne-111827?style=for-the-badge&logo=hackerone&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerOne-111827?style=for-the-badge&logo=hackerone&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/omkar-sahni-89b952324">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Omkar443">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+<br/><br/>
 
 ```text
 omkar@research:~$ ./find-next-bug
 
 [+] loading research environment...
-[+] initializing toolchain...
-[+] attack surface identified...
+[+] vulnerabilities are everywhere...
 [+] curiosity enabled...
+[+] research never stops...
 
-research never stops.
-
-█
+omkar@research:~$ █
 ```
 
-<br>
+<br/>
 
-### `BREAK ASSUMPTIONS // BUILD BETTER SYSTEMS`
+## `BREAK ASSUMPTIONS` <span style="color:#E11D48">//</span> `BUILD BETTER SYSTEMS`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:111827,100:7F1D1D&height=120&section=footer" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=E11D48"/>
 
 </div>
