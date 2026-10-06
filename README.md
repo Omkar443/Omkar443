@@ -1,3 +1,13 @@
-# Omkar Sahni
+████████████████████████████████████████████████████████
 
-Security Researcher • Bug Bounty Hunter • Security Tool Builder
+                    OMKAR SAHNI
+
+              SECURITY RESEARCHER
+               BUG BOUNTY HUNTER
+              SECURITY TOOL BUILDER
+
+         WEB  /  MOBILE  /  WEB3  /  AI
+
+                omkar@security:~$ █
+
+████████████████████████████████████████████████████████
